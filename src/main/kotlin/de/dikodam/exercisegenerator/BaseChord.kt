@@ -1,0 +1,28 @@
+package de.dikodam.exercisegenerator
+
+enum class BaseChord(val displayName: String) {
+    C("C"),
+    Db("Db"),
+    D("D"),
+    Eb("Eb"),
+    E("E"),
+    F("F"),
+    Gb("F#"),
+    G("G"),
+    Ab("Ab"),
+    A("A"),
+    Bb("Bb"),
+    B("B"),
+    Cm("Cm"),
+    Dbm("C#"),
+    Dm("Dm"),
+    Ebm("D#m"),
+    Em("Em"),
+    Fm("Fm"),
+    Gbm("F#m"),
+    Gm("Gm"),
+    Abm("G#m"),
+    Am("Am"),
+    Bbm("Bbm"),
+    Bm("Bm"),
+}
